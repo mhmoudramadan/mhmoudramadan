@@ -11,7 +11,7 @@ objective
 
 My Experiences:
   • Mechatronics engineer at EMG Groug .
-  • freelancing embedded system engineer.
+  • freelancing embedded software engineer.
   • Summer Intern at Electronics Research Institute.
 
 I have great passion for Embedded systems Implementation and one day I'll definitely be part of the
