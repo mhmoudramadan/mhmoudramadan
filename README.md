@@ -3,7 +3,7 @@
 mhmoudramadan/mhmoudramadan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I'm a mechatrinics engineer who's luckily in mechatronics, robotics and automation engineering , Egyptian Academy for engineering and adavanced technology, Egypt. 📡
+I'm a mechatronics engineer who's luckily in mechatronics, robotics and automation engineering , Egyptian Academy for engineering and adavanced technology, Egypt.
 
 objective 
  	-To have a challenge for a job opportunity within a reputable company which 
