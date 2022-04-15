@@ -10,7 +10,7 @@ objective
     my skills could be fully utilized and efficiently developed
 
 My Experiences:
-  • Mechatronics engineer at EMG Groug .
+  • Mechatronics engineer at EMG Group .
   • freelancing embedded software engineer.
   • Summer Intern at Electronics Research Institute.
 
