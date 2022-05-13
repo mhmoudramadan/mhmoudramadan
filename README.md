@@ -19,14 +19,14 @@ industry and contribute with my skills.<br/>
 - 📫 How to reach me **mhmoudramadan111@gmail.com**<br/>
 
 <br/>
-<h1>graduated from Egyptian Academy for engineering and adavanced technology affiliated to "Ministry of military production".<br/> </h1>
-<h1>objective <br/>
+<p>graduated from Egyptian Academy for engineering and adavanced technology affiliated to "Ministry of military production".<br/> </p>
+<p>objective <br/>
  	•seeking to help and guide engineers throuh my Repo <br/>
-  i hope it will useful as instructions for them to gain some new technics. <br/></h1>
-<h1>Experiences:<br/>
+  i hope it will useful as instructions for them to gain some new technics. <br/></p>
+<p>Experiences:<br/>
   • Mechatronics engineer at EMG Group .<br/>
   • freelancing embedded software engineer.<br/>
-  • Summer Intern at Electronics Research Institute.<br/></h1>
+  • Summer Intern at Electronics Research Institute.<br/></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahmoud ramadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud ramadan" height="30" width="40" /></a>
