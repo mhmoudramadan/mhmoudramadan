@@ -7,7 +7,7 @@ mechatronics engineer who's luckily in mechatronics |robotics |automation |Embed
 graduated from Egyptian Academy for engineering and adavanced technology affiliated to "Ministry of military production".<br/> 
 
 objective <br/>
- 	-seeking to help and guide engineers throuh my Repo <br/>
+ 	•seeking to help and guide engineers throuh my Repo <br/>
   i hope it will useful as instructions for them to gain some new technics. <br/>
 
 Experiences:<br/>
