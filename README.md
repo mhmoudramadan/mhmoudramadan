@@ -4,7 +4,7 @@ mhmoudramadan/mhmoudramadan is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Mahmoud Ramadan</h1>
-<h3 align="center">mechatronics |robotics |Embedded engineer</h3>
+<h3 align="center">mechatronics | robotics | Embedded Software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmoudramadan&label=Profile%20views&color=0e75b6&style=flat" alt="mhmoudramadan" /> </p>
 
