@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmoudramadan&label=Profile%20views&color=0e75b6&style=flat" alt="mhmoudramadan" /> </p>
 
-- 🔭 I’m currently working on **Embedded Software **
+- 🔭 I’m currently working on Embedded Software 
 
 - 👯 I’m looking to collaborate on **Automotive Industry**
 
