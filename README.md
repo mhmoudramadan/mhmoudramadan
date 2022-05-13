@@ -19,7 +19,7 @@ industry and contribute with my skills.<br/>
 - 📫 How to reach me **mhmoudramadan111@gmail.com**<br/>
 
 <br/>
-<p>graduated from Egyptian Academy for engineering and adavanced technology affiliated to "Ministry of military production".<br/> </p>
+<p>✨graduated from Egyptian Academy for engineering and adavanced technology affiliated to "Ministry of military production".<br/> </p>
 <p align="left">✨objective: <br/></p>
 <p>
  	•seeking to help and guide engineers throuh my Repo <br/>
