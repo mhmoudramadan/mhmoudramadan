@@ -3,16 +3,17 @@
 mhmoudramadan/mhmoudramadan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I'm a mechatronics engineer who's luckily in mechatronics, robotics and automation engineering , Egyptian Academy for engineering and adavanced technology, Egypt.
+mechatronics engineer who's luckily in mechatronics |robotics |automation |Embedded engineering <br/> 
+graduated from Egyptian Academy for engineering and adavanced technology affiliated to "Ministry of military production".<br/> 
 
-objective 
- 	-To have a challenge for a job opportunity within a reputable company which 
-    my skills could be fully utilized and efficiently developed
+objective <br/>
+ 	-seeking to help and guide engineers throuh my Repo <br/>
+  i hope it will useful as instructions for them to gain some new technics. <br/>
 
-My Experiences:
-  • Mechatronics engineer at EMG Group .
-  • freelancing embedded software engineer.
-  • Summer Intern at Electronics Research Institute.
+Experiences:<br/>
+  • Mechatronics engineer at EMG Group .<br/>
+  • freelancing embedded software engineer.<br/>
+  • Summer Intern at Electronics Research Institute.<br/>
 
 I have great passion for Embedded systems Implementation and one day I'll definitely be part of the
-industry and contribute with my skills.
+industry and contribute with my skills.<br/>
