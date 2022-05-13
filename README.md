@@ -20,11 +20,11 @@ industry and contribute with my skills.<br/>
 
 <br/>
 <p>graduated from Egyptian Academy for engineering and adavanced technology affiliated to "Ministry of military production".<br/> </p>
-<p align="center">objective <br/></p>
+<p align="left">✨objective: <br/></p>
 <p>
  	•seeking to help and guide engineers throuh my Repo <br/>
   i hope it will useful as instructions for them to gain some new technics. <br/></p>
-<p align="center">Experiences:<br/></p>
+<p align="left">✨Experiences:<br/></p>
  <p>
   • Mechatronics engineer at EMG Group .<br/>
   • freelancing embedded software engineer.<br/>
