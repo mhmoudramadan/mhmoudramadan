@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on **Automotive Industry**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mahmoudramdan](linkedin)
+- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/mahmoudramdan)
 
-- 📫 How to reach me **mhmoudramadan111@gmail.com**
+- 📫 How to reach me **mhmoudramadan111@gmail.com**<br/>
 graduated from Egyptian Academy for engineering and adavanced technology affiliated to "Ministry of military production".<br/> 
 I have great passion for Embedded systems Implementation and one day I'll definitely be part of the
 industry and contribute with my skills.<br/>
