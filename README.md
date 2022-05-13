@@ -11,20 +11,22 @@ You can click the Preview link to take a look at your changes.
 - 🔭 I’m currently working on Embedded Software 
 
 - 👯 I’m looking to collaborate on **Automotive Industry**
+- 🔭 I have great passion for Embedded systems Implementation and one day I'll definitely be part of the
+industry and contribute with my skills.<br/>
 
 - 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/mahmoudramdan)
 
 - 📫 How to reach me **mhmoudramadan111@gmail.com**<br/>
-graduated from Egyptian Academy for engineering and adavanced technology affiliated to "Ministry of military production".<br/> 
-I have great passion for Embedded systems Implementation and one day I'll definitely be part of the
-industry and contribute with my skills.<br/>
-objective <br/>
+
+<br/>
+<h1>graduated from Egyptian Academy for engineering and adavanced technology affiliated to "Ministry of military production".<br/> </h1>
+<h1>objective <br/>
  	•seeking to help and guide engineers throuh my Repo <br/>
-  i hope it will useful as instructions for them to gain some new technics. <br/>
-Experiences:<br/>
+  i hope it will useful as instructions for them to gain some new technics. <br/></h1>
+<h1>Experiences:<br/>
   • Mechatronics engineer at EMG Group .<br/>
   • freelancing embedded software engineer.<br/>
-  • Summer Intern at Electronics Research Institute.<br/>
+  • Summer Intern at Electronics Research Institute.<br/></h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahmoud ramadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud ramadan" height="30" width="40" /></a>
