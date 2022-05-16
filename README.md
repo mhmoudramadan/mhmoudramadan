@@ -26,9 +26,9 @@ industry and contribute with my skills.<br/>
   i hope it will useful as instructions for them to gain some new technics. <br/></p>
 <p align="left">✨Experiences:<br/></p>
  <p>
-  • Mechatronics engineer at EMG Group .<br/>
-  • freelancing embedded software engineer.<br/>
-  • Summer Intern at Electronics Research Institute.<br/></p>
+ • freelancing embedded software engineer.<br/> 
+ • Mechatronics engineer at EMG Group .<br/>
+ • Summer Intern at Electronics Research Institute.<br/></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahmoud ramadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud ramadan" height="30" width="40" /></a>
