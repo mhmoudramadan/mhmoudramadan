@@ -23,7 +23,7 @@ industry and contribute with my skills.<br/>
 <p align="left">✨objective: <br/></p>
 <p>
  	•seeking to help and guide engineers throuh my Repo <br/>
-  i hope it will useful as instructions for them to gain some new technics. <br/></p>
+  i hope it will be useful as instructions for them to gain some new technics. <br/></p>
 <p align="left">✨Experiences:<br/></p>
  <p>
  • freelancing embedded software engineer.<br/> 
