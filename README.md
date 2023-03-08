@@ -26,6 +26,7 @@ industry and contribute with my skills.<br/>
   i hope it will be useful as instructions for them to gain some new technics. <br/></p>
 <p align="left">✨Experiences:<br/></p>
  <p>
+ • Embedded Software Engineer  @ABABdev e.U.<br/> 
  • freelancing embedded software engineer.<br/> 
  • Mechatronics engineer at EMG Group .<br/>
  • Summer Intern at Electronics Research Institute.<br/></p>
