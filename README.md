@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on Embedded Software 
 
-- 👯 I’m looking to collaborate on **Automotive Industry**
+- 👯 I’m looking to collaborate on **Automotive and Aerospace Industry**
 - 🔭 I have great passion for Embedded systems Implementation and one day I'll definitely be part of the
 industry and contribute with my skills.<br/>
 
