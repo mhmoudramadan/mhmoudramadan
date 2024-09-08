@@ -7,8 +7,8 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Embedded Software engineer | mechatronics | robotics  </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mhmoudramadan&label=Profile%20views&color=0e75b6&style=flat" alt="mhmoudramadan" /><img src="https://img.shields.io/badge/status-active-success.svg" alt="Status"><img src="https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg"/><img src=https://img.shields.io/badge/license-MIT-blue.svg></p>
 
-- 🔭 I’m currently working on Embedded Software indusrty.
-- 👯 I’m looking to collaborate on **Automotive,Aerospace,IOT and consumer electronics Industry**
+- 🔭 I’m currently working in Embedded Software indusrty.
+- 👯 I’m looking to collaborate in **Automotive,Aerospace,IOT and consumer electronics Industry**
 - 🔭 I have great passion for Embedded systems Implementation and one day I'll definitely be part of the
   industry and contribute with my skills.
 - 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/mahmoudramdan)
