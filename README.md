@@ -7,34 +7,18 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Embedded Software engineer | mechatronics | robotics  </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mhmoudramadan&label=Profile%20views&color=0e75b6&style=flat" alt="mhmoudramadan" /><img src="https://img.shields.io/badge/status-active-success.svg" alt="Status"><img src="https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg"/><img src=https://img.shields.io/badge/license-MIT-blue.svg></p>
 
-
-
-<p align="center">  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="800" height="400"/>
-</p>
-
 - 🔭 I’m currently working on Embedded Software indusrty.
 - 👯 I’m looking to collaborate on **Automotive,Aerospace,IOT and consumer electronics Industry**
 - 🔭 I have great passion for Embedded systems Implementation and one day I'll definitely be part of the
   industry and contribute with my skills.
 - 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/mahmoudramdan)
-- 📫 How to reach me **mhmoudramadan111@gmail.com**
-
-<br/>
-<p>✨graduated from Egyptian Academy for engineering and adavanced technology affiliated to "Ministry of military production".<br/> </p>
-<p align="left">✨objective: <br/></p>
-<p>
- 	• seeking to help and guide engineers throuh my repositories <br/>
-  i hope it will be useful as instructions for them to gain some new technics. <br/></p>
-<p align="left">✨Experiences:<br/></p>
- <p>
- • Embedded Software Engineer  @ABABdev e.U.<br/> 
- • freelancing embedded software engineer.<br/> 
- • Mechatronics engineer at EMG Group .<br/>
- • Summer Intern at Electronics Research Institute.<br/></p>
+- Seeking to help and guide engineers through my repositories
+  <p align="center">  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="800" height="400"/>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mahmoudramdan/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="mahmoud ramadan" height="60" width="60" /></a>
-<a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail Logo" height="30" width="40"/></a>
+<a href="mailto:mhmoudramadan111@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail Logo" height="30" width="40"/></a>
 
 </p>
 
