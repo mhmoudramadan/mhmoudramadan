@@ -70,6 +70,9 @@
 </p>
 
 ---
+## Contributing
+
+Contributions to any repository are welcome! If you have ideas for improving functionality, feel free to fork the repository and submit pull requests.
 
 ## License
 
