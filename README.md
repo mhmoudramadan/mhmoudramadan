@@ -10,7 +10,6 @@
 
 ---
 
-### About Me
 
 - 🔭 I’m currently working in the Embedded Software industry.
 - 👯 I’m looking to collaborate in **Automotive, Aerospace, IoT, and Consumer Electronics** industries.
@@ -25,6 +24,7 @@
 <a href="mailto:mhmoudramadan111@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" width="50"/></a>
 </p>
 
+---
 <h3 align="left">Languages:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -34,7 +34,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="40" height="40"/>
 </p>
 
-<h3 align="left">Tools:</h3>
+
+---
+### Tools
 <p align="left">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1024px-Eclipse-Luna-Logo.svg.png" alt="Eclipse IDE" width="50" height="40"/>
    <img src="https://i.sstatic.net/lDkNO.png" alt="STM32CubeIDE" width="50" height="40" />
@@ -52,7 +54,9 @@
 
 </p>
 
-<h3 align="left">Management Tools :</h3>
+
+---
+### Management Tools
 <p align="left">
    <img src="https://1000logos.net/wp-content/uploads/2021/06/Slack-logo.png" alt="Slack" width="50" height="40" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" alt="Jira" width="50" height="40"/>
@@ -62,7 +66,8 @@
    <img src="https://download.logo.wine/logo/Google_Meet/Google_Meet-Logo.wine.png" alt="Google_Meet" width="50" height="40"/>
  </p>
 
-<h3 align="left">Stats:</h3>
+---
+### Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmoudramadan&show_icons=true&locale=en&layout=compact" alt="mhmoudramadan"/>
   <img src="https://github-readme-stats.vercel.app/api?username=mhmoudramadan&theme=default&show_icons=true&locale=en" alt="mhmoudramadan"/>
@@ -70,10 +75,11 @@
 </p>
 
 ---
-## Contributing
+### Contributing
 
 Contributions to any repository are welcome! If you have ideas for improving functionality, feel free to fork the repository and submit pull requests.
 
-## License
+---
+### License
 
 This project is licensed under the [MIT License](LICENSE).
