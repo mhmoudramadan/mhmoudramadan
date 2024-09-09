@@ -8,14 +8,13 @@
   <img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
 </p>
 
-<!-- About Section with Links -->
 - 🔭 I’m currently working in Embedded Software industry.  
 - 👯 I’m looking to collaborate in **Automotive, Aerospace, IOT, and consumer electronics Industry**  
 - 🔭 I have great passion for Embedded systems Implementation and one day I'll definitely be part of the industry and contribute with my skills.  
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mahmoudramdan)  
 - Seeking to help and guide engineers through my repositories
 
-<!-- Profile GIF Image with Hover Zoom Effect -->
+<!-- Profile GIF -->
 <p align="center">
    <a href="https://github.com/mhmoudramadan" target="_blank">
       <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="800" height="400" alt="Profile Animation" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
@@ -74,10 +73,10 @@
 
 ---
 ### Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmoudramadan&show_icons=true&locale=en&layout=compact" alt="mhmoudramadan"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmoudramadan&theme=default&show_icons=true&locale=en" alt="mhmoudramadan"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmoudramadan" alt="GitHub Streak Stats"/>
+<p>
+  <img  align="center" width="400"  src="https://github-readme-stats.vercel.app/api?username=mhmoudramadan&theme=default&show_icons=true&locale=en" alt="mhmoudramadan"/>
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmoudramadan&show_icons=true&locale=en&layout=compact" alt="mhmoudramadan"/>
+  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmoudramadan" alt="GitHub Streak Stats"/>
 </p>
 
 ---
