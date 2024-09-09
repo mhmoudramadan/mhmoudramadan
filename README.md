@@ -8,24 +8,30 @@
   <img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
 </p>
 
+<!-- About Section with Links -->
+- 🔭 I’m currently working in Embedded Software industry.  
+- 👯 I’m looking to collaborate in **Automotive, Aerospace, IOT, and consumer electronics Industry**  
+- 🔭 I have great passion for Embedded systems Implementation and one day I'll definitely be part of the industry and contribute with my skills.  
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mahmoudramdan)  
+- Seeking to help and guide engineers through my repositories
+
+<!-- Profile GIF Image with Hover Zoom Effect -->
+<p align="center">
+   <a href="https://github.com/mhmoudramadan" target="_blank">
+      <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="800" height="400" alt="Profile Animation" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+   </a>
+</p>
+
 ---
 
-
-- 🔭 I’m currently working in the Embedded Software industry.
-- 👯 I’m looking to collaborate in **Automotive, Aerospace, IoT, and Consumer Electronics** industries.
-- 🔭 I have a great passion for embedded systems implementation and I aim to contribute with my skills.
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mahmoudramdan)
-  
----
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mahmoudramdan/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="50" width="50"/></a>
 <a href="mailto:mhmoudramadan111@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" width="50"/></a>
 </p>
 
 ---
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -36,7 +42,7 @@
 
 
 ---
-### Tools
+### Software Tools
 <p align="left">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1024px-Eclipse-Luna-Logo.svg.png" alt="Eclipse IDE" width="50" height="40"/>
    <img src="https://i.sstatic.net/lDkNO.png" alt="STM32CubeIDE" width="50" height="40" />
