@@ -79,7 +79,7 @@
   <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmoudramadan&theme=default&hide_border=true"alt="mhmoudramadan"/>
   
 
-  <img  align="center" src="(https://raw.githubusercontent.com/mhmoudramadan/github-stats/master/generated/overview.svg#gh-dark-mode-only"alt="mhmoudramadan"/>
+  <img align="center" src="(https://raw.githubusercontent.com/username=mhmoudramadan/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="mhmoudramadan"/>
 
   
 
