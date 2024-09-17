@@ -76,7 +76,7 @@
 <p>
   <img  align="center" width="400"  src="https://github-readme-stats.vercel.app/api?username=mhmoudramadan&theme=default&show_icons=true&locale=en" alt="mhmoudramadan"/>
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmoudramadan&show_icons=true&locale=en&layout=compact" alt="mhmoudramadan"/>
-  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmoudramadan" alt="GitHub Streak Stats"/>
+![mhmoudramadan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmoudramadan&theme=default&hide_border=true)
   
 </p>
 
