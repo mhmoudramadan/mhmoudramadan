@@ -79,6 +79,8 @@
   <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmoudramadan&theme=default&hide_border=true"alt="mhmoudramadan"/>
   
 </p>
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ---
 ### Contributing
