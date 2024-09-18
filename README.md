@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate in **Automotive, Aerospace, IOT, and consumer electronics Industry**  
 - 🔭 I have great passion for Embedded systems Implementation and one day I'll definitely be part of the industry and contribute with my skills.  
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mahmoudramdan)  
-- Seeking to help and guide engineers through my repositories
+- Seeking to help and guide Developers through my repositories
 
 <!-- Profile GIF -->
 <p align="center">
