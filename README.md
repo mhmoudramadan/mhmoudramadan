@@ -47,7 +47,6 @@
 
 
 ### Software Tools
-<p align="left"> <img  align="left" src="https://1000logos.net/wp-content/uploads/2021/06/Slack-logo.png" alt="Slack" width="50" height="40" title="Slack"/> <img  align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" alt="Jira" width="50" height="40" title="Jira"/> <img  align="left"  src="https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg" alt="Trello" width="50" height="40" title="Trello"/> <img  align="left"  src="https://logowik.com/content/uploads/images/bitrix241512.jpg" alt="Bitrix24" width="50" height="40" title="Bitrix24"/> <img  align="left"  src="https://www.logo.wine/a/logo/Microsoft_Teams/Microsoft_Teams-Logo.wine.svg" alt="Microsoft Teams" width="50" height="40" title="Microsoft Teams"/> <img  align="left"  src="https://download.logo.wine/logo/Google_Meet/Google_Meet-Logo.wine.png" alt="Google Meet" width="50" height="40" title="Google Meet"/> </p>
 <p align="left">
    <img  align="left"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1024px-Eclipse-Luna-Logo.svg.png" alt="Eclipse IDE" width="50" height="40"/>
    <img  align="left"  src="https://i.sstatic.net/lDkNO.png" alt="STM32CubeIDE" width="50" height="40" />
