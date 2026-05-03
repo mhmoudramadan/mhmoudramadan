@@ -58,7 +58,9 @@
    <img  align="left"  src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt Logo" width="50" height="40"/>
    <img  align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTNWDuVTiPuQHETjohRAdbBJT-ceWumXS7YA&s"  alt="Vector" width="50" height="40"/>
    <img  align="left"  src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus" width="50" height="40"/>
-   <img  align="left"  src="https://mqtt.org/assets/img/mqtt-logo.jpg" alt="MQTT" width="50" height="40"/>
+   <img  align="left"  src="https://mqtt.org/assets/img/mqtt-logo.jpg" alt="Cmake" width="50" height="40"/>
+   <img  align="left"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrCNEMccwtBgMwGkiqhuoukSJ9No3A6ge7sA&s" alt="MQTT" width="50" height="40"/>
+  <img  align="left"  src="https://nodered.org/about/resources/media/node-red-icon.svg" alt="Node red" width="50" height="40"/>
    <img  align="center"  src="https://logowik.com/content/uploads/images/pycharm6005.logowik.com.webp" alt="PyCharm" width="50" height="40"/>
 
 
@@ -70,18 +72,18 @@
 <p align="left">
    <img  align="left"  src="https://1000logos.net/wp-content/uploads/2021/06/Slack-logo.png" alt="Slack" width="50" height="40" />
    <img  align="left"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" alt="Jira" width="50" height="40"/>
+   <img  align="left"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBNE9dDoijyZMg2x0AU2_PdQoS-2k7oL8Xlw&s" alt="Confluence" width="50" height="40"/>
    <img  align="left"  src="https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg" alt="Trello" width="50" height="40"/>
    <img  align="left"  src="https://logowik.com/content/uploads/images/bitrix241512.jpg" alt="bitrix24" width="50" height="40"/>
    <img  align="left"  src="https://www.logo.wine/a/logo/Microsoft_Teams/Microsoft_Teams-Logo.wine.svg" alt="Microsoft_Teams" width="50" height="40"/>
    <img  align="center"  src="https://download.logo.wine/logo/Google_Meet/Google_Meet-Logo.wine.png" alt="Google_Meet" width="50" height="40"/>
+
  </p>
 
 ---
 ### Stats
 <p>
-  <img  align="right" width="400"  src="https://github-readme-stats.vercel.app/api?username=mhmoudramadan&theme=default&show_icons=true&locale=en" alt="mhmoudramadan"/
-    >
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmoudramadan&show_icons=true&locale=en&layout=compact" alt="mhmoudramadan"/>
+  <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmoudramadan&show_icons=true&locale=en&layout=compact" alt="mhmoudramadan"/>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mhmoudramadan&theme=default&hide_border=true" alt="mhmoudramadan's Streak" />
 </p>
 
